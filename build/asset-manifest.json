@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89d888f3.chunk.css",
+    "main.js": "/static/js/main.cea063e2.chunk.js",
+    "main.js.map": "/static/js/main.cea063e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.87a10c83.js",
+    "runtime-main.js.map": "/static/js/runtime-main.87a10c83.js.map",
+    "static/js/2.d29d84f6.chunk.js": "/static/js/2.d29d84f6.chunk.js",
+    "static/js/2.d29d84f6.chunk.js.map": "/static/js/2.d29d84f6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.89d888f3.chunk.css.map": "/static/css/main.89d888f3.chunk.css.map",
+    "static/js/2.d29d84f6.chunk.js.LICENSE.txt": "/static/js/2.d29d84f6.chunk.js.LICENSE.txt",
+    "static/media/humankindness.ea7ce0e7.mp4": "/static/media/humankindness.ea7ce0e7.mp4",
+    "static/media/nature-wallpaper.a72bb526.jpg": "/static/media/nature-wallpaper.a72bb526.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a10c83.js",
+    "static/js/2.d29d84f6.chunk.js",
+    "static/css/main.89d888f3.chunk.css",
+    "static/js/main.cea063e2.chunk.js"
+  ]
+}
